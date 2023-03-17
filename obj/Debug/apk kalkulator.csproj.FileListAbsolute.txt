@@ -1,0 +1,6 @@
+D:\c#\apk kalkulator\apk kalkulator\bin\Debug\apk kalkulator.exe.config
+D:\c#\apk kalkulator\apk kalkulator\bin\Debug\apk kalkulator.exe
+D:\c#\apk kalkulator\apk kalkulator\bin\Debug\apk kalkulator.pdb
+D:\c#\apk kalkulator\apk kalkulator\obj\Debug\apk kalkulator.csprojResolveAssemblyReference.cache
+D:\c#\apk kalkulator\apk kalkulator\obj\Debug\apk kalkulator.exe
+D:\c#\apk kalkulator\apk kalkulator\obj\Debug\apk kalkulator.pdb
